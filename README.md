@@ -3,4 +3,4 @@ OdooRibera
 
 Desarrollo de módulos de Open ERP
 
-_VAMOOOOOOOOOO
+este repositorio lo utilizaremos para subir nuestros modulos python
